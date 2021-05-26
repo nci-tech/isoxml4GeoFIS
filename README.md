@@ -2,6 +2,8 @@
 
 isoxml4GeoFIS is a software interface to adapt zoning data from GeoFIS to ISOBUS data format.
 
+![summary](img/summary.png)
+
 ## Requirements
 
 * GeoFIS v1.1
