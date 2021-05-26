@@ -22,26 +22,6 @@ isoxml4GeoFIS is a software interface to adapt zoning data from GeoFIS to ISOBUS
 
 * Restart GeoFIS
 
-## Documentation
 
-under construction
-
-## Cite as 
-
-@misc{iglesiasgit210526,
-
-  author = {N. Iglesias and P. Bulacio and E. Tapia},
-  
-  title = {isoxml4GeoFIS},
-  
-  year = {2021},
-  
-  publisher = {GitHub},
-  
-  journal = {GitHub repository},
-  
-  howpublished = {\url{https://github.com/nci-tech/isoxml4GeoFIS}}
-  
-  }
 
 
